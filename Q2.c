@@ -1,0 +1,1 @@
+Variável é um local reservado na memória para armazenar, O tipo de dado de uma variável determina o que ela é capaz de armazenar.
